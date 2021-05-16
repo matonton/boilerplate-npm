@@ -9,7 +9,12 @@
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": ["freecodecamp", "wilderness", "aardvark"],
+  "keywords": [
+    "freecodecamp",
+    "wilderness",
+    "aardvark"
+  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"

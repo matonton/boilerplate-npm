@@ -3,7 +3,7 @@
   "author": "matonton",
   "dependencies": {
     "express": "^4.14.0",
-    "moment": "2.14.0"
+    "moment": "^2.14.0"
   },
   "description": "A fast-moving attempt to change the inner circle",
   "main": "server.js",
@@ -16,7 +16,7 @@
     "aardvark"
   ],
   "license": "MIT",
-  "version": "0.1",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"

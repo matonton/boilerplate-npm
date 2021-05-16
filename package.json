@@ -2,8 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "matonton",
   "dependencies": {
-    "express": "^4.14.0",
-    "moment": "^2.14.0"
+    "express": "^4.14.0"
   },
   "description": "A fast-moving attempt to change the inner circle",
   "main": "server.js",
